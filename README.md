@@ -21,6 +21,8 @@ Protractor end to end testing boilerplate
     -if this does not load with <code> $ npm install</code> ; 
     -Run in your terminal:
         - <code> $ npm install es6-promise --save</code>
+        
+        
 
 
 ##Development server
